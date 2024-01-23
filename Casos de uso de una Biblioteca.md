@@ -2,8 +2,6 @@
 ## Descripción
 * Desarrolla un diagrama de casos de uso para un sistema de biblioteca. Los actores pueden ser “Usuario” y “Bibliotecario”. Algunos casos de uso podrían ser “Prestar Libro”, “Devolver Libro”, “Buscar Libro”, etc.
 
-## Diagrama de Casos de Uso
-!Diagrama de Casos de Uso de Biblioteca
 
 ## Casos de Uso
 1. Prestar Libro: El bibliotecario presta un libro al usuario.
