@@ -1,7 +1,7 @@
 # Casos de Uso Reserva de vuelo
 
 ## Descripcion:
-
+Crea un diagrama de casos de uso para un sistema de reservas de vuelos. Los actores pueden ser "Pasajero" y "Agente de Reservas". Algunos casos de uso podrían ser: **Buscar Vuelo, Reservar Vuelo, Cancelar Reserva.**
 
 ## Casos de Uso:
 1. **Buscar Vuelo:** El pasajero o el agente de reservas pueden buscar vuelos disponibles según la fecha, la hora, el origen, el destino, el número de pasajeros, etc. 
