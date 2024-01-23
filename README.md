@@ -1,1 +1,1 @@
-Se subiran mas tareas de ETS
+Repositorio dedicado a las tareas de ETS
