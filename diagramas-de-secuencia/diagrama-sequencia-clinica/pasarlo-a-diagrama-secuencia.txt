@@ -1,0 +1,8 @@
+Paciente -> Recepcionista: Solicita cita
+Recepcionista -> Sistema de citas: Ingresa solicitud de cita
+Sistema de citas -> Recepcionista: Confirma disponibilidad
+Recepcionista -> Paciente: Proporciona detalles de la cita
+Paciente -> Recepcionista: Confirma la cita
+Recepcionista -> Sistema de citas: Confirma la cita
+Sistema de citas -> Recepcionista: Genera confirmación de la cita
+Recepcionista -> Paciente: Entrega confirmación de la cita
